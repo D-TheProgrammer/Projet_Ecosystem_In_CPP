@@ -2,10 +2,11 @@
 [French] Projet de création d'un Ecosystème en C++    
 [English] Project to create an Ecosystem in C++   
 
-### SOMMAIRE / SUMMARY
-- Présentation en francais / Presentation in French
-- Présentation en anglais / Presentation in English  
-- Tuoriel dans les deux langues / Tutorial in both languages  
+#### SOMMAIRE / SUMMARY
+- [Présentation en Francais / Presentation in French](#presentation-en-francais)
+- [Présentation en Anglais / Presentation in English](#english-presentation)
+- [Tutoriel dans les deux langues / Tutorial in both languages](#tutoriel--tutorial)
+
 
 ## [PRESENTATION EN FRANCAIS]
 
@@ -40,7 +41,7 @@ Enfin, le code a été commenté en français (car c'est ma langue natale et que
 > ```
 
 
-## [PRESENTATION IN ENGLISH]
+## [ENGLISH PRESENTATION]
 
 Project developed in C++ aiming to simulate an ecosystem. To achieve this, terminal-based display is utilized, notably with the following letters:
 - S: Mineral Salts
