@@ -2,6 +2,10 @@
 [French] Projet de création d'un Ecosystème en C++    
 [English] Project to create an Ecosystem in C++   
 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Simulation](https://img.shields.io/badge/Simulation-Ecosystem-green)
+![Status](https://img.shields.io/badge/Status-Complete-success)
+
 #### SOMMAIRE / SUMMARY
 - [Présentation en Francais / Presentation in French](#presentation-en-francais)
 - [Présentation en Anglais / Presentation in English](#english-presentation)
